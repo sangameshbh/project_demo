@@ -1,1 +1,2 @@
 1st addition in file1 in local
+1st addition in file1 in remote
